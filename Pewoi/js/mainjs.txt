@@ -1,0 +1,1 @@
+bu temadaki mainjs üye kayıt modalı açılması için edumark-master temasındaki mainjs ile değiştirildi
